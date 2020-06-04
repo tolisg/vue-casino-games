@@ -1,0 +1,18 @@
+@media (min-width: 992px) {
+  .container {
+    max-width: 100%;
+  }
+  .col-fifths {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 85%;
+  }
+  .col-fifths {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
