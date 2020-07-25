@@ -6,7 +6,7 @@
             "new"
         ],
         "name": "The Wish Master",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETHEWISHMASTER.jpg",
+        "image": "/games/NETHEWISHMASTER.jpg",
         "id": "NETHEWISHMASTER"
     },
     {
@@ -16,7 +16,7 @@
             "new"
         ],
         "name": "Aliens",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEALIENS.jpg",
+        "image": "/games/NEALIENS.jpg",
         "id": "NEALIENS"
     },
     {
@@ -26,7 +26,7 @@
             "new"
         ],
         "name": "Starburst",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESTARBURST.jpg",
+        "image": "/games/NESTARBURST.jpg",
         "id": "NESTARBURST"
     },
     {
@@ -36,7 +36,7 @@
             "new"
         ],
         "name": "Jack Hammer 2",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEJACKHAMMER2.jpg",
+        "image": "/games/NEJACKHAMMER2.jpg",
         "id": "NEJACKHAMMER2"
     },
     {
@@ -46,7 +46,7 @@
             "new"
         ],
         "name": "Blood Suckers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBLOODSUCKERS.jpg",
+        "image": "/games/NEBLOODSUCKERS.jpg",
         "id": "NEBLOODSUCKERS"
     },
     {
@@ -55,7 +55,7 @@
             "slots"
         ],
         "name": "Zombie Rush",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEZOMBIERUSH.jpg",
+        "image": "/games/LEZOMBIERUSH.jpg",
         "id": "LEZOMBIERUSH"
     },
     {
@@ -64,7 +64,7 @@
             "slots"
         ],
         "name": "Dragon Drop",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXDRAGONDROP.jpg",
+        "image": "/games/NYXDRAGONDROP.jpg",
         "id": "NYXDRAGONDROP"
     },
     {
@@ -73,7 +73,7 @@
             "slots"
         ],
         "name": "Foxin Wins",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXFOXINWINS.jpg",
+        "image": "/games/NYXFOXINWINS.jpg",
         "id": "NYXFOXINWINS"
     },
     {
@@ -83,7 +83,7 @@
             "new"
         ],
         "name": "Beowulf",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEBEOWULF.jpg",
+        "image": "/games/LEBEOWULF.jpg",
         "id": "LEBEOWULF"
     },
     {
@@ -92,7 +92,7 @@
             "slots"
         ],
         "name": "Rook's Revenge",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSROCKSREVENGE.jpg",
+        "image": "/games/BSROCKSREVENGE.jpg",
         "id": "BSROCKSREVENGE"
     },
     {
@@ -101,7 +101,7 @@
             "slots"
         ],
         "name": "Medusa",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMEDUSA.jpg",
+        "image": "/games/NYXMEDUSA.jpg",
         "id": "NYXMEDUSA"
     },
     {
@@ -110,7 +110,7 @@
             "slots"
         ],
         "name": "A While on the Nile",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXAWHILEONTHENILE.jpg",
+        "image": "/games/NYXAWHILEONTHENILE.jpg",
         "id": "NYXAWHILEONTHENILE"
     },
     {
@@ -119,7 +119,7 @@
             "slots"
         ],
         "name": "Queen of Thrones",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEQUEENOFTHRONES9B6.jpg",
+        "image": "/games/LEQUEENOFTHRONES9B6.jpg",
         "id": "LEQUEENOFTHRONES9B6"
     },
     {
@@ -129,7 +129,7 @@
             "new"
         ],
         "name": "Twin Spin",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETWINSPIN.jpg",
+        "image": "/games/NETWINSPIN.jpg",
         "id": "NETWINSPIN"
     },
     {
@@ -139,7 +139,7 @@
             "new"
         ],
         "name": "Jack and the Beanstalk",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEJACKANDTHEBEANSTALK.jpg",
+        "image": "/games/NEJACKANDTHEBEANSTALK.jpg",
         "id": "NEJACKANDTHEBEANSTALK"
     },
     {
@@ -149,7 +149,7 @@
             "new"
         ],
         "name": "Gonzo's Quest",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEGONZOSQUEST.jpg",
+        "image": "/games/NEGONZOSQUEST.jpg",
         "id": "NEGONZOSQUEST"
     },
     {
@@ -157,7 +157,7 @@
             "slots"
         ],
         "name": "Super Nova",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LESUPERNOVA.jpg",
+        "image": "/games/LESUPERNOVA.jpg",
         "id": "LESUPERNOVA"
     },
     {
@@ -165,7 +165,7 @@
             "slots"
         ],
         "name": "Chase the Cheese",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSCHASETHECHEESE.jpg",
+        "image": "/games/BSCHASETHECHEESE.jpg",
         "id": "BSCHASETHECHEESE"
     },
     {
@@ -173,7 +173,7 @@
             "slots"
         ],
         "name": "Gladiator",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSGLADIATOR.jpg",
+        "image": "/games/BSGLADIATOR.jpg",
         "id": "BSGLADIATOR"
     },
     {
@@ -181,7 +181,7 @@
             "slots"
         ],
         "name": "Mr Vegas",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMRVEGAS.jpg",
+        "image": "/games/BSMRVEGAS.jpg",
         "id": "BSMRVEGAS"
     },
     {
@@ -189,7 +189,7 @@
             "slots"
         ],
         "name": "Pharaoh King",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPHARAOHKING.jpg",
+        "image": "/games/BSPHARAOHKING.jpg",
         "id": "BSPHARAOHKING"
     },
     {
@@ -197,7 +197,7 @@
             "slots"
         ],
         "name": "Pablo Picasso Slot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEPABLOPICASSOSLOT.jpg",
+        "image": "/games/LEPABLOPICASSOSLOT.jpg",
         "id": "LEPABLOPICASSOSLOT"
     },
     {
@@ -205,7 +205,7 @@
             "slots"
         ],
         "name": "Merlin's Magic Respins",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMERLINSMAGICRESPINS.jpg",
+        "image": "/games/NYXMERLINSMAGICRESPINS.jpg",
         "id": "NYXMERLINSMAGICRESPINS"
     },
     {
@@ -213,7 +213,7 @@
             "slots"
         ],
         "name": "2 Million BC",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BS2MILLIONBC.jpg",
+        "image": "/games/BS2MILLIONBC.jpg",
         "id": "BS2MILLIONBC"
     },
     {
@@ -221,7 +221,7 @@
             "slots"
         ],
         "name": "Glam or Sham",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEGLAMORSHAM.jpg",
+        "image": "/games/LEGLAMORSHAM.jpg",
         "id": "LEGLAMORSHAM"
     },
     {
@@ -230,7 +230,7 @@
             "new"
         ],
         "name": "Jack Hammer",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEJACKHAMMER.jpg",
+        "image": "/games/NEJACKHAMMER.jpg",
         "id": "NEJACKHAMMER"
     },
     {
@@ -238,7 +238,7 @@
             "slots"
         ],
         "name": "A Night in Paris",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSANIGHTINPARIS.jpg",
+        "image": "/games/BSANIGHTINPARIS.jpg",
         "id": "BSANIGHTINPARIS"
     },
     {
@@ -246,7 +246,7 @@
             "slots"
         ],
         "name": "Secrets of the Tomb",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LESECRETSOFTHETOMB.jpg",
+        "image": "/games/LESECRETSOFTHETOMB.jpg",
         "id": "LESECRETSOFTHETOMB"
     },
     {
@@ -255,7 +255,7 @@
             "new"
         ],
         "name": "Wild Water",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEWILDWATER.jpg",
+        "image": "/games/NEWILDWATER.jpg",
         "id": "NEWILDWATER"
     },
     {
@@ -263,7 +263,7 @@
             "slots"
         ],
         "name": "Extra Cash!!",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXEXTRACASH.jpg",
+        "image": "/games/NYXEXTRACASH.jpg",
         "id": "NYXEXTRACASH"
     },
     {
@@ -271,7 +271,7 @@
             "slots"
         ],
         "name": "Arrival",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSARRIVAL.jpg",
+        "image": "/games/BSARRIVAL.jpg",
         "id": "BSARRIVAL"
     },
     {
@@ -279,7 +279,7 @@
             "slots"
         ],
         "name": "Little Pigs",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LELITTLEPIGS.jpg",
+        "image": "/games/LELITTLEPIGS.jpg",
         "id": "LELITTLEPIGS"
     },
     {
@@ -288,7 +288,7 @@
             "new"
         ],
         "name": "Wonky Wabbits",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEWONKYWABBITS.jpg",
+        "image": "/games/NEWONKYWABBITS.jpg",
         "id": "NEWONKYWABBITS"
     },
     {
@@ -296,7 +296,7 @@
             "slots"
         ],
         "name": "Merlin's Millions Superbet",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMERLINSMILLIONSSUPERBET.jpg",
+        "image": "/games/NYXMERLINSMILLIONSSUPERBET.jpg",
         "id": "NYXMERLINSMILLIONSSUPERBET"
     },
     {
@@ -304,7 +304,7 @@
             "slots"
         ],
         "name": "Deep Blue Sea",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGDEEPBLUESEA.jpg",
+        "image": "/games/XGDEEPBLUESEA.jpg",
         "id": "XGDEEPBLUESEA"
     },
     {
@@ -312,7 +312,7 @@
             "slots"
         ],
         "name": "Swash Buckler",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGSWASHBUCKLER.jpg",
+        "image": "/games/XGSWASHBUCKLER.jpg",
         "id": "XGSWASHBUCKLER"
     },
     {
@@ -320,7 +320,7 @@
             "slots"
         ],
         "name": "Robot Revolt",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGROBOTREVOLT.jpg",
+        "image": "/games/XGROBOTREVOLT.jpg",
         "id": "XGROBOTREVOLT"
     },
     {
@@ -328,7 +328,7 @@
             "slots"
         ],
         "name": "Gogo 3000",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGGOGO3000.jpg",
+        "image": "/games/XGGOGO3000.jpg",
         "id": "XGGOGO3000"
     },
     {
@@ -336,7 +336,7 @@
             "slots"
         ],
         "name": "At the Movies",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSATTHEMOVIES.jpg",
+        "image": "/games/BSATTHEMOVIES.jpg",
         "id": "BSATTHEMOVIES"
     },
     {
@@ -344,7 +344,7 @@
             "slots"
         ],
         "name": "Mandarin Fortune",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEMANDARINFORTUNE.jpg",
+        "image": "/games/LEMANDARINFORTUNE.jpg",
         "id": "LEMANDARINFORTUNE"
     },
     {
@@ -352,7 +352,7 @@
             "slots"
         ],
         "name": "Aztec Treasures",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSAZTECTREASURE2.jpg",
+        "image": "/games/BSAZTECTREASURE2.jpg",
         "id": "BSAZTECTREASURE2"
     },
     {
@@ -360,7 +360,7 @@
             "slots"
         ],
         "name": "Potion Factory",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEPOTIONFACTORY1S8.jpg",
+        "image": "/games/LEPOTIONFACTORY1S8.jpg",
         "id": "LEPOTIONFACTORY1S8"
     },
     {
@@ -369,7 +369,7 @@
             "new"
         ],
         "name": "Piggy Riches",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEPIGGYRICHES.jpg",
+        "image": "/games/NEPIGGYRICHES.jpg",
         "id": "NEPIGGYRICHES"
     },
     {
@@ -377,7 +377,7 @@
             "slots"
         ],
         "name": "Hot Hot Volcano",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXHOTHOTVULCANO.jpg",
+        "image": "/games/NYXHOTHOTVULCANO.jpg",
         "id": "NYXHOTHOTVULCANO"
     },
     {
@@ -385,7 +385,7 @@
             "slots"
         ],
         "name": "Wizard's Castle",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSWIZARDSCASTLE.jpg",
+        "image": "/games/BSWIZARDSCASTLE.jpg",
         "id": "BSWIZARDSCASTLE"
     },
     {
@@ -393,7 +393,7 @@
             "slots"
         ],
         "name": "Roulette - Reely Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEREELYROULETTE.jpg",
+        "image": "/games/LEREELYROULETTE.jpg",
         "id": "LEREELYROULETTE"
     },
     {
@@ -401,7 +401,7 @@
             "slots"
         ],
         "name": "Dead or Alive",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEDEADORALIVE.jpg",
+        "image": "/games/NEDEADORALIVE.jpg",
         "id": "NEDEADORALIVE"
     },
     {
@@ -409,7 +409,7 @@
             "slots"
         ],
         "name": "Irish Eyes 2 ",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXIRISHEYES2.jpg",
+        "image": "/games/NYXIRISHEYES2.jpg",
         "id": "NYXIRISHEYES2"
     },
     {
@@ -417,7 +417,7 @@
             "slots"
         ],
         "name": "The Bees",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTHEBEES.jpg",
+        "image": "/games/BSTHEBEES.jpg",
         "id": "BSTHEBEES"
     },
     {
@@ -425,7 +425,7 @@
             "slots"
         ],
         "name": "Magic Portals",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEMAGICPORTALS.jpg",
+        "image": "/games/NEMAGICPORTALS.jpg",
         "id": "NEMAGICPORTALS"
     },
     {
@@ -434,7 +434,7 @@
         ],
         "-gcat": "Bingo",
         "name": "Super Safari",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSUPERSAFARI.jpg",
+        "image": "/games/NYXSUPERSAFARI.jpg",
         "id": "NYXSUPERSAFARI"
     },
     {
@@ -442,7 +442,7 @@
             "slots"
         ],
         "name": "Green Lantern",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXGREENLANTERN.jpg",
+        "image": "/games/NYXGREENLANTERN.jpg",
         "id": "NYXGREENLANTERN"
     },
     {
@@ -450,7 +450,7 @@
             "slots"
         ],
         "name": "Superman",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSUPERMAN.jpg",
+        "image": "/games/NYXSUPERMAN.jpg",
         "id": "NYXSUPERMAN"
     },
     {
@@ -458,7 +458,7 @@
             "slots"
         ],
         "name": "The Flash",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXTHEFLASH.jpg",
+        "image": "/games/NYXTHEFLASH.jpg",
         "id": "NYXTHEFLASH"
     },
     {
@@ -466,7 +466,7 @@
             "slots"
         ],
         "name": "Wonder Woman",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXWONDERWOMAN.jpg",
+        "image": "/games/NYXWONDERWOMAN.jpg",
         "id": "NYXWONDERWOMAN"
     },
     {
@@ -474,7 +474,7 @@
             "slots"
         ],
         "name": "Lost",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSLOST.jpg",
+        "image": "/games/BSLOST.jpg",
         "id": "BSLOST"
     },
     {
@@ -482,7 +482,7 @@
             "slots"
         ],
         "name": "Seven Lucky Dwarfs",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LESEVENLUCKYDWARFS.jpg",
+        "image": "/games/LESEVENLUCKYDWARFS.jpg",
         "id": "LESEVENLUCKYDWARFS"
     },
     {
@@ -490,7 +490,7 @@
             "slots"
         ],
         "name": "Secret of the Stones",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESECRETOFTHESTONES.jpg",
+        "image": "/games/NESECRETOFTHESTONES.jpg",
         "id": "NESECRETOFTHESTONES"
     },
     {
@@ -498,7 +498,7 @@
             "slots"
         ],
         "name": "Mad Mad Monkey",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMADMADMONKEY.jpg",
+        "image": "/games/NYXMADMADMONKEY.jpg",
         "id": "NYXMADMADMONKEY"
     },
     {
@@ -506,7 +506,7 @@
             "slots"
         ],
         "name": "Aztec Treasure",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSAZTECTREASURE.jpg",
+        "image": "/games/BSAZTECTREASURE.jpg",
         "id": "BSAZTECTREASURE"
     },
     {
@@ -514,7 +514,7 @@
             "slots"
         ],
         "name": "Glutters",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEGLUTTERS.jpg",
+        "image": "/games/LEGLUTTERS.jpg",
         "id": "LEGLUTTERS"
     },
     {
@@ -523,7 +523,7 @@
             "new"
         ],
         "name": "Victorious",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEVICTORIOUS.jpg",
+        "image": "/games/NEVICTORIOUS.jpg",
         "id": "NEVICTORIOUS"
     },
     {
@@ -532,7 +532,7 @@
         ],
         "-gcat": "Bingo",
         "name": "Spanish Eyes",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSPANISHEYES.jpg",
+        "image": "/games/NYXSPANISHEYES.jpg",
         "id": "NYXSPANISHEYES"
     },
     {
@@ -540,7 +540,7 @@
             "slots"
         ],
         "name": "Diamond Jackpot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDIAMONDJACKPOT.jpg",
+        "image": "/games/BSDIAMONDJACKPOT.jpg",
         "id": "BSDIAMONDJACKPOT"
     },
     {
@@ -548,7 +548,7 @@
             "slots"
         ],
         "name": "Fruit Shop",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEFRUITSHOP.jpg",
+        "image": "/games/NEFRUITSHOP.jpg",
         "id": "NEFRUITSHOP"
     },
     {
@@ -556,7 +556,7 @@
             "slots"
         ],
         "name": "Oil Mania",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXOILMANIA.jpg",
+        "image": "/games/NYXOILMANIA.jpg",
         "id": "NYXOILMANIA"
     },
     {
@@ -564,7 +564,7 @@
             "slots"
         ],
         "name": "Madder Scientist",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMADDERSCIENTIST.jpg",
+        "image": "/games/BSMADDERSCIENTIST.jpg",
         "id": "BSMADDERSCIENTIST"
     },
     {
@@ -572,7 +572,7 @@
             "slots"
         ],
         "name": "Magic Building",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEMAGICBUILDING.jpg",
+        "image": "/games/LEMAGICBUILDING.jpg",
         "id": "LEMAGICBUILDING"
     },
     {
@@ -580,7 +580,7 @@
             "slots"
         ],
         "name": "Reel Rush",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEREELRUSH.jpg",
+        "image": "/games/NEREELRUSH.jpg",
         "id": "NEREELRUSH"
     },
     {
@@ -588,7 +588,7 @@
             "slots"
         ],
         "name": "Ramesess Riches",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXRAMESESSRICHES.jpg",
+        "image": "/games/NYXRAMESESSRICHES.jpg",
         "id": "NYXRAMESESSRICHES"
     },
     {
@@ -596,7 +596,7 @@
             "slots"
         ],
         "name": "Treasure Room",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTREASUREROOM.jpg",
+        "image": "/games/BSTREASUREROOM.jpg",
         "id": "BSTREASUREROOM"
     },
     {
@@ -604,7 +604,7 @@
             "slots"
         ],
         "name": "Jean Wealth",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEJEANWEALTH.jpg",
+        "image": "/games/LEJEANWEALTH.jpg",
         "id": "LEJEANWEALTH"
     },
     {
@@ -612,7 +612,7 @@
             "slots"
         ],
         "name": "Big Bang",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBIGBANG.jpg",
+        "image": "/games/NEBIGBANG.jpg",
         "id": "NEBIGBANG"
     },
     {
@@ -620,7 +620,7 @@
             "slots"
         ],
         "name": "Genie Wild",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXGENIEWILD.jpg",
+        "image": "/games/NYXGENIEWILD.jpg",
         "id": "NYXGENIEWILD"
     },
     {
@@ -628,7 +628,7 @@
             "slots"
         ],
         "name": "7th Heaven",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BS7THHEAVEN.jpg",
+        "image": "/games/BS7THHEAVEN.jpg",
         "id": "BS7THHEAVEN"
     },
     {
@@ -636,7 +636,7 @@
             "slots"
         ],
         "name": "Reely Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEREELYPOKER.jpg",
+        "image": "/games/LEREELYPOKER.jpg",
         "id": "LEREELYPOKER"
     },
     {
@@ -644,7 +644,7 @@
             "slots"
         ],
         "name": "Flowers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEFLOWERS.jpg",
+        "image": "/games/NEFLOWERS.jpg",
         "id": "NEFLOWERS"
     },
     {
@@ -652,7 +652,7 @@
             "slots"
         ],
         "name": "Pizza Prize",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXPIZZAPRIZE.jpg",
+        "image": "/games/NYXPIZZAPRIZE.jpg",
         "id": "NYXPIZZAPRIZE"
     },
     {
@@ -660,7 +660,7 @@
             "slots"
         ],
         "name": "Captain Cash",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSCAPTAINCASH.jpg",
+        "image": "/games/BSCAPTAINCASH.jpg",
         "id": "BSCAPTAINCASH"
     },
     {
@@ -668,7 +668,7 @@
             "slots"
         ],
         "name": "Lucky Tango",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LELUCKYTANGO.jpg",
+        "image": "/games/LELUCKYTANGO.jpg",
         "id": "LELUCKYTANGO"
     },
     {
@@ -676,7 +676,7 @@
             "slots"
         ],
         "name": "Wildcat Canyon",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXWILDCATCANYON.jpg",
+        "image": "/games/NYXWILDCATCANYON.jpg",
         "id": "NYXWILDCATCANYON"
     },
     {
@@ -684,7 +684,7 @@
             "slots"
         ],
         "name": "Enchanted",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSENCHANTED.jpg",
+        "image": "/games/BSENCHANTED.jpg",
         "id": "BSENCHANTED"
     },
     {
@@ -692,7 +692,7 @@
             "slots"
         ],
         "name": "Snake Slot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LESNAKESLOT.jpg",
+        "image": "/games/LESNAKESLOT.jpg",
         "id": "LESNAKESLOT"
     },
     {
@@ -700,7 +700,7 @@
             "slots"
         ],
         "name": "South Park",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESOUTHPARK.jpg",
+        "image": "/games/NESOUTHPARK.jpg",
         "id": "NESOUTHPARK"
     },
     {
@@ -708,7 +708,7 @@
             "slots"
         ],
         "name": "Napoleon Boney Parts",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXNAPOLEONBONEYPARTS.jpg",
+        "image": "/games/NYXNAPOLEONBONEYPARTS.jpg",
         "id": "NYXNAPOLEONBONEYPARTS"
     },
     {
@@ -716,7 +716,7 @@
             "slots"
         ],
         "name": "Gold Diggers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSGOLDDIGGERS.jpg",
+        "image": "/games/BSGOLDDIGGERS.jpg",
         "id": "BSGOLDDIGGERS"
     },
     {
@@ -724,7 +724,7 @@
             "slots"
         ],
         "name": "Reely Bingo",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEREELYBINGO.jpg",
+        "image": "/games/LEREELYBINGO.jpg",
         "id": "LEREELYBINGO"
     },
     {
@@ -733,7 +733,7 @@
             "new"
         ],
         "name": "Elements: The Awakening",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEELEMENTSTHEAWAKENING.jpg",
+        "image": "/games/NEELEMENTSTHEAWAKENING.jpg",
         "id": "NEELEMENTS:THEAWAKENING"
     },
     {
@@ -741,7 +741,7 @@
             "slots"
         ],
         "name": "Irish Eyes",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXIRISHEYES.jpg",
+        "image": "/games/NYXIRISHEYES.jpg",
         "id": "NYXIRISHEYES"
     },
     {
@@ -749,7 +749,7 @@
             "slots"
         ],
         "name": "It Came From Venus",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSITCAMEFROMVENUS.jpg",
+        "image": "/games/BSITCAMEFROMVENUS.jpg",
         "id": "BSITCAMEFROMVENUS"
     },
     {
@@ -757,7 +757,7 @@
             "slots"
         ],
         "name": "Castaway",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LECASTAWAY.jpg",
+        "image": "/games/LECASTAWAY.jpg",
         "id": "LECASTAWAY"
     },
     {
@@ -765,7 +765,7 @@
             "slots"
         ],
         "name": "Lights",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NELIGHTS.jpg",
+        "image": "/games/NELIGHTS.jpg",
         "id": "NELIGHTS"
     },
     {
@@ -773,7 +773,7 @@
             "slots"
         ],
         "name": "Venetian Rose",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVENETIANROSE.jpg",
+        "image": "/games/NYXVENETIANROSE.jpg",
         "id": "NYXVENETIANROSE"
     },
     {
@@ -781,7 +781,7 @@
             "slots"
         ],
         "name": "The Exterminator",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTHEEXTERMINATOR.jpg",
+        "image": "/games/BSTHEEXTERMINATOR.jpg",
         "id": "BSTHEEXTERMINATOR"
     },
     {
@@ -789,7 +789,7 @@
             "slots"
         ],
         "name": "33 Lives",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LE33LIVES.jpg",
+        "image": "/games/LE33LIVES.jpg",
         "id": "LE33LIVES"
     },
     {
@@ -797,7 +797,7 @@
             "slots"
         ],
         "name": "Creature - Black Lagoon",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NECREATUREFROMTHEBLACKLAGOON.jpg",
+        "image": "/games/NECREATUREFROMTHEBLACKLAGOON.jpg",
         "id": "NECREATUREFROMTHEBLACKLAGOON"
     },
     {
@@ -805,7 +805,7 @@
             "slots"
         ],
         "name": "Unicorn Legend",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXUNICORNLEGEND.jpg",
+        "image": "/games/NYXUNICORNLEGEND.jpg",
         "id": "NYXUNICORNLEGEND"
     },
     {
@@ -813,7 +813,7 @@
             "slots"
         ],
         "name": "Monkey Money",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMONKEYMONEY.jpg",
+        "image": "/games/BSMONKEYMONEY.jpg",
         "id": "BSMONKEYMONEY"
     },
     {
@@ -821,7 +821,7 @@
             "slots"
         ],
         "name": "Voyages of Sinbad",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEVOYAGESOFSINBAD.jpg",
+        "image": "/games/LEVOYAGESOFSINBAD.jpg",
         "id": "LEVOYAGESOFSINBAD"
     },
     {
@@ -829,7 +829,7 @@
             "slots"
         ],
         "name": "Fisticuffs",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEFISTICUFFS.jpg",
+        "image": "/games/NEFISTICUFFS.jpg",
         "id": "NEFISTICUFFS"
     },
     {
@@ -837,7 +837,7 @@
             "slots"
         ],
         "name": "Bobby 7's",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBOBBY7S.jpg",
+        "image": "/games/NYXBOBBY7S.jpg",
         "id": "NYXBOBBY7S"
     },
     {
@@ -845,7 +845,7 @@
             "slots"
         ],
         "name": "Three Wishes",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTHREEWISHES.jpg",
+        "image": "/games/BSTHREEWISHES.jpg",
         "id": "BSTHREEWISHES"
     },
     {
@@ -853,7 +853,7 @@
             "slots"
         ],
         "name": "Megadeth",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEMEGADETH134.jpg",
+        "image": "/games/LEMEGADETH134.jpg",
         "id": "LEMEGADETH134"
     },
     {
@@ -861,7 +861,7 @@
             "slots"
         ],
         "name": "Space Wars",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESPACEWARS.jpg",
+        "image": "/games/NESPACEWARS.jpg",
         "id": "NESPACEWARS"
     },
     {
@@ -869,7 +869,7 @@
             "slots"
         ],
         "name": "Bangkok Nights",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBANGKOKNIGHTS.jpg",
+        "image": "/games/NYXBANGKOKNIGHTS.jpg",
         "id": "NYXBANGKOKNIGHTS"
     },
     {
@@ -877,7 +877,7 @@
             "slots"
         ],
         "name": "Ned and his Friends",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSNEDANDHISFRIENDS.jpg",
+        "image": "/games/BSNEDANDHISFRIENDS.jpg",
         "id": "BSNEDANDHISFRIENDS"
     },
     {
@@ -885,7 +885,7 @@
             "slots"
         ],
         "name": "Rally",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LERALLY.jpg",
+        "image": "/games/LERALLY.jpg",
         "id": "LERALLY"
     },
     {
@@ -893,7 +893,7 @@
             "slots"
         ],
         "name": "EggOMatic",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEEGGOMATIC.jpg",
+        "image": "/games/NEEGGOMATIC.jpg",
         "id": "NEEGGOMATIC"
     },
     {
@@ -901,7 +901,7 @@
             "slots"
         ],
         "name": "Paco and the Popping Peppers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPACOPEPPERS.jpg",
+        "image": "/games/BSPACOPEPPERS.jpg",
         "id": "BSPACOPEPPERS"
     },
     {
@@ -909,7 +909,7 @@
             "slots"
         ],
         "name": "Pampa Treasures",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEPAMPATREASURES.jpg",
+        "image": "/games/LEPAMPATREASURES.jpg",
         "id": "LEPAMPATREASURES"
     },
     {
@@ -917,7 +917,7 @@
             "slots"
         ],
         "name": "Ghost Pirates",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEGHOSTPIRATES.jpg",
+        "image": "/games/NEGHOSTPIRATES.jpg",
         "id": "NEGHOSTPIRATES"
     },
     {
@@ -925,7 +925,7 @@
             "slots"
         ],
         "name": "Andre the Giant",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXANDRETHEGIANT.jpg",
+        "image": "/games/NYXANDRETHEGIANT.jpg",
         "id": "NYXANDRETHEGIANT"
     },
     {
@@ -933,7 +933,7 @@
             "slots"
         ],
         "name": "Slots Angels",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSLOTSANGELS.jpg",
+        "image": "/games/BSSLOTSANGELS.jpg",
         "id": "BSSLOTSANGELS"
     },
     {
@@ -941,7 +941,7 @@
             "slots"
         ],
         "name": "Ali Baba",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEALIBABA.jpg",
+        "image": "/games/LEALIBABA.jpg",
         "id": "LEALIBABA"
     },
     {
@@ -949,7 +949,7 @@
             "slots"
         ],
         "name": "Doctor Love",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXDOCTORLOVE.jpg",
+        "image": "/games/NYXDOCTORLOVE.jpg",
         "id": "NYXDOCTORLOVE"
     },
     {
@@ -957,7 +957,7 @@
             "slots"
         ],
         "name": "Safari Sam",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSAFARISAM.jpg",
+        "image": "/games/BSSAFARISAM.jpg",
         "id": "BSSAFARISAM"
     },
     {
@@ -965,7 +965,7 @@
             "slots"
         ],
         "name": "Dragon Slots",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEDRAGONSLOT5U5.jpg",
+        "image": "/games/LEDRAGONSLOT5U5.jpg",
         "id": "LEDRAGONSLOT5U5"
     },
     {
@@ -973,7 +973,7 @@
             "slots"
         ],
         "name": "Cherry Blossoms",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXCHERRYBLOSSOMS.jpg",
+        "image": "/games/NYXCHERRYBLOSSOMS.jpg",
         "id": "NYXCHERRYBLOSSOMS"
     },
     {
@@ -981,7 +981,7 @@
             "slots"
         ],
         "name": "Jackpot Jamba",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSJACKPOTJAMBA.jpg",
+        "image": "/games/BSJACKPOTJAMBA.jpg",
         "id": "BSJACKPOTJAMBA"
     },
     {
@@ -989,7 +989,7 @@
             "slots"
         ],
         "name": "Mad Pinatas",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/LEMADPINATAS5H0.jpg",
+        "image": "/games/LEMADPINATAS5H0.jpg",
         "id": "LEMADPINATAS5H0"
     },
     {
@@ -997,7 +997,7 @@
             "slots"
         ],
         "name": "Eastern Dragon",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXEASTERNDRAGON.jpg",
+        "image": "/games/NYXEASTERNDRAGON.jpg",
         "id": "NYXEASTERNDRAGON"
     },
     {
@@ -1005,7 +1005,7 @@
             "slots"
         ],
         "name": "Once Upon a Time",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSONCEUPONATIME.jpg",
+        "image": "/games/BSONCEUPONATIME.jpg",
         "id": "BSONCEUPONATIME"
     },
     {
@@ -1013,7 +1013,7 @@
             "slots"
         ],
         "name": "Call of the Colosseum",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXCALLOFTHECOLOSSEUM.jpg",
+        "image": "/games/NYXCALLOFTHECOLOSSEUM.jpg",
         "id": "NYXCALLOFTHECOLOSSEUM"
     },
     {
@@ -1021,7 +1021,7 @@
             "slots"
         ],
         "name": "Ghouls Gold",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSGHOULSGOLD.jpg",
+        "image": "/games/BSGHOULSGOLD.jpg",
         "id": "BSGHOULSGOLD"
     },
     {
@@ -1030,7 +1030,7 @@
         ],
         "-gcat": "Bingo",
         "name": "King Tiger ",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXKINGTIGER.jpg",
+        "image": "/games/NYXKINGTIGER.jpg",
         "id": "NYXKINGTIGER"
     },
     {
@@ -1038,7 +1038,7 @@
             "slots"
         ],
         "name": "Dr Love on Vacation",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXDRLOVEONVACATION.jpg",
+        "image": "/games/NYXDRLOVEONVACATION.jpg",
         "id": "NYXDRLOVEONVACATION"
     },
     {
@@ -1046,7 +1046,7 @@
             "slots"
         ],
         "name": "Out of This World",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSOUTOFTHISWORLD.jpg",
+        "image": "/games/BSOUTOFTHISWORLD.jpg",
         "id": "BSOUTOFTHISWORLD"
     },
     {
@@ -1054,7 +1054,7 @@
             "slots"
         ],
         "name": "Gold Ahoy",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXGOLDAHOY.jpg",
+        "image": "/games/NYXGOLDAHOY.jpg",
         "id": "NYXGOLDAHOY"
     },
     {
@@ -1062,7 +1062,7 @@
             "slots"
         ],
         "name": "Black Gold",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBLACKGOLD.jpg",
+        "image": "/games/BSBLACKGOLD.jpg",
         "id": "BSBLACKGOLD"
     },
     {
@@ -1070,7 +1070,7 @@
             "slots"
         ],
         "name": "Munchers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMUNCHERS.jpg",
+        "image": "/games/NYXMUNCHERS.jpg",
         "id": "NYXMUNCHERS"
     },
     {
@@ -1078,7 +1078,7 @@
             "slots"
         ],
         "name": "Diamond Dreams",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDIAMONDDREAMS.jpg",
+        "image": "/games/BSDIAMONDDREAMS.jpg",
         "id": "BSDIAMONDDREAMS"
     },
     {
@@ -1086,7 +1086,7 @@
             "slots"
         ],
         "name": "300 Shields",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYX300SHIELDS.jpg",
+        "image": "/games/NYX300SHIELDS.jpg",
         "id": "NYX300SHIELDS"
     },
     {
@@ -1094,7 +1094,7 @@
             "slots"
         ],
         "name": "Under the Sea",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSUNDERTHESEA.jpg",
+        "image": "/games/BSUNDERTHESEA.jpg",
         "id": "BSUNDERTHESEA"
     },
     {
@@ -1102,7 +1102,7 @@
             "slots"
         ],
         "name": "Shaaark! Superbet",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSHAAARKSUPERBET.jpg",
+        "image": "/games/NYXSHAAARKSUPERBET.jpg",
         "id": "NYXSHAAARKSUPERBET"
     },
     {
@@ -1110,7 +1110,7 @@
             "slots"
         ],
         "name": "Back in Time",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBACKINTIME.jpg",
+        "image": "/games/BSBACKINTIME.jpg",
         "id": "BSBACKINTIME"
     },
     {
@@ -1118,7 +1118,7 @@
             "slots"
         ],
         "name": "Joker Jester ",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXJOKERJESTER.jpg",
+        "image": "/games/NYXJOKERJESTER.jpg",
         "id": "NYXJOKERJESTER"
     },
     {
@@ -1126,7 +1126,7 @@
             "slots"
         ],
         "name": "Tycoons",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTYCOONS.jpg",
+        "image": "/games/BSTYCOONS.jpg",
         "id": "BSTYCOONS"
     },
     {
@@ -1134,7 +1134,7 @@
             "slots"
         ],
         "name": "Crocodopolis",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXCROCODOPOLIS.jpg",
+        "image": "/games/NYXCROCODOPOLIS.jpg",
         "id": "NYXCROCODOPOLIS"
     },
     {
@@ -1142,7 +1142,7 @@
             "slots"
         ],
         "name": "Reel Outlaws",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSREELOUTLAWS.jpg",
+        "image": "/games/BSREELOUTLAWS.jpg",
         "id": "BSREELOUTLAWS"
     },
     {
@@ -1150,7 +1150,7 @@
             "slots"
         ],
         "name": "Maid o Money",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXMAIDOMONEY.jpg",
+        "image": "/games/NYXMAIDOMONEY.jpg",
         "id": "NYXMAIDOMONEY"
     },
     {
@@ -1158,7 +1158,7 @@
             "slots"
         ],
         "name": "Mamma Mia",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMAMMAMIA.jpg",
+        "image": "/games/BSMAMMAMIA.jpg",
         "id": "BSMAMMAMIA"
     },
     {
@@ -1166,7 +1166,7 @@
             "slots"
         ],
         "name": "Easy Slider",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXEASYSLIDER.jpg",
+        "image": "/games/NYXEASYSLIDER.jpg",
         "id": "NYXEASYSLIDER"
     },
     {
@@ -1174,7 +1174,7 @@
             "slots"
         ],
         "name": "Mad Scientist",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMADSCIENTIST.jpg",
+        "image": "/games/BSMADSCIENTIST.jpg",
         "id": "BSMADSCIENTIST"
     },
     {
@@ -1182,7 +1182,7 @@
             "slots"
         ],
         "name": "California Gold",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXCALIFORNIAGOLD.jpg",
+        "image": "/games/NYXCALIFORNIAGOLD.jpg",
         "id": "NYXCALIFORNIAGOLD"
     },
     {
@@ -1190,7 +1190,7 @@
             "slots"
         ],
         "name": "Invaders",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSINVADERS.jpg",
+        "image": "/games/BSINVADERS.jpg",
         "id": "BSINVADERS"
     },
     {
@@ -1198,7 +1198,7 @@
             "slots"
         ],
         "name": "The Snake Charmer",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXTHESNAKECHARMER.jpg",
+        "image": "/games/NYXTHESNAKECHARMER.jpg",
         "id": "NYXTHESNAKECHARMER"
     },
     {
@@ -1206,7 +1206,7 @@
             "slots"
         ],
         "name": "Hidden Loot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSHIDDENLOOT.jpg",
+        "image": "/games/BSHIDDENLOOT.jpg",
         "id": "BSHIDDENLOOT"
     },
     {
@@ -1214,7 +1214,7 @@
             "slots"
         ],
         "name": "Rock Star",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSROCKSTAR.jpg",
+        "image": "/games/BSROCKSTAR.jpg",
         "id": "BSROCKSTAR"
     },
     {
@@ -1222,7 +1222,7 @@
             "slots"
         ],
         "name": "Emperor's Garden",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXEMPERORSGARDEN.jpg",
+        "image": "/games/NYXEMPERORSGARDEN.jpg",
         "id": "NYXEMPERORSGARDEN"
     },
     {
@@ -1230,7 +1230,7 @@
             "slots"
         ],
         "name": "The Glamlife",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSGLAMLIFE.jpg",
+        "image": "/games/BSGLAMLIFE.jpg",
         "id": "BSGLAMLIFE"
     },
     {
@@ -1238,7 +1238,7 @@
             "slots"
         ],
         "name": "The Cod Father",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXTHECODFATHER.jpg",
+        "image": "/games/NYXTHECODFATHER.jpg",
         "id": "NYXTHECODFATHER"
     },
     {
@@ -1246,7 +1246,7 @@
             "slots"
         ],
         "name": "Lucky 7",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSLUCKY7.jpg",
+        "image": "/games/BSLUCKY7.jpg",
         "id": "BSLUCKY7"
     },
     {
@@ -1254,7 +1254,7 @@
             "slots"
         ],
         "name": "Fairies Forest",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXFAIRIESFOREST.jpg",
+        "image": "/games/NYXFAIRIESFOREST.jpg",
         "id": "NYXFAIRIESFOREST"
     },
     {
@@ -1262,7 +1262,7 @@
             "slots"
         ],
         "name": "The Ghouls",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTHEGHOULS.jpg",
+        "image": "/games/BSTHEGHOULS.jpg",
         "id": "BSTHEGHOULS"
     },
     {
@@ -1270,7 +1270,7 @@
             "slots"
         ],
         "name": "Enchanted Mermaid",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXENCHANTEDMERMAID.jpg",
+        "image": "/games/NYXENCHANTEDMERMAID.jpg",
         "id": "NYXENCHANTEDMERMAID"
     },
     {
@@ -1278,7 +1278,7 @@
             "slots"
         ],
         "name": "Mermaid's Pearl",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMERMAIDSPEARL.jpg",
+        "image": "/games/BSMERMAIDSPEARL.jpg",
         "id": "BSMERMAIDSPEARL"
     },
     {
@@ -1286,7 +1286,7 @@
             "slots"
         ],
         "name": "Butterflies",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBUTTERFLIES.jpg",
+        "image": "/games/NYXBUTTERFLIES.jpg",
         "id": "NYXBUTTERFLIES"
     },
     {
@@ -1294,7 +1294,7 @@
             "slots"
         ],
         "name": "Heist",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSHEIST.jpg",
+        "image": "/games/BSHEIST.jpg",
         "id": "BSHEIST"
     },
     {
@@ -1302,7 +1302,7 @@
             "slots"
         ],
         "name": "Royal Reels",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSROYALREELS.jpg",
+        "image": "/games/BSROYALREELS.jpg",
         "id": "BSROYALREELS"
     },
     {
@@ -1310,7 +1310,7 @@
             "slots"
         ],
         "name": "Bermuda Mysteries",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBERMUDAMYSTERIES.jpg",
+        "image": "/games/NYXBERMUDAMYSTERIES.jpg",
         "id": "NYXBERMUDAMYSTERIES"
     },
     {
@@ -1318,7 +1318,7 @@
             "slots"
         ],
         "name": "True Illusions",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTRUEILLUSIONS.jpg",
+        "image": "/games/BSTRUEILLUSIONS.jpg",
         "id": "BSTRUEILLUSIONS"
     },
     {
@@ -1326,7 +1326,7 @@
             "slots"
         ],
         "name": "Hot Roller",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXHOTROLLER.jpg",
+        "image": "/games/NYXHOTROLLER.jpg",
         "id": "NYXHOTROLLER"
     },
     {
@@ -1334,7 +1334,7 @@
             "slots"
         ],
         "name": "Triple Crown",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTRIPLECROWN.jpg",
+        "image": "/games/BSTRIPLECROWN.jpg",
         "id": "BSTRIPLECROWN"
     },
     {
@@ -1342,7 +1342,7 @@
             "slots"
         ],
         "name": "Barbary Coast",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBARBARYCOAST.jpg",
+        "image": "/games/BSBARBARYCOAST.jpg",
         "id": "BSBARBARYCOAST"
     },
     {
@@ -1350,7 +1350,7 @@
             "slots"
         ],
         "name": "Potion Commotion",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXPOTIONCOMMOTION.jpg",
+        "image": "/games/NYXPOTIONCOMMOTION.jpg",
         "id": "NYXPOTIONCOMMOTION"
     },
     {
@@ -1358,7 +1358,7 @@
             "slots"
         ],
         "name": "Viking Age",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSVIKINGAGE.jpg",
+        "image": "/games/BSVIKINGAGE.jpg",
         "id": "BSVIKINGAGE"
     },
     {
@@ -1366,7 +1366,7 @@
             "slots"
         ],
         "name": "Big Foot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBIGFOOT.jpg",
+        "image": "/games/NYXBIGFOOT.jpg",
         "id": "NYXBIGFOOT"
     },
     {
@@ -1374,7 +1374,7 @@
             "slots"
         ],
         "name": "The Curious Machine",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTHECURIOUSMACHINE.jpg",
+        "image": "/games/BSTHECURIOUSMACHINE.jpg",
         "id": "BSTHECURIOUSMACHINE"
     },
     {
@@ -1382,7 +1382,7 @@
             "slots"
         ],
         "name": "Dolphin Reef",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXDOLPHINREEF.jpg",
+        "image": "/games/NYXDOLPHINREEF.jpg",
         "id": "NYXDOLPHINREEF"
     },
     {
@@ -1390,7 +1390,7 @@
             "slots"
         ],
         "name": "Slotfather",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSLOTFATHER.jpg",
+        "image": "/games/BSSLOTFATHER.jpg",
         "id": "BSSLOTFATHER"
     },
     {
@@ -1398,7 +1398,7 @@
             "classic"
         ],
         "name": "Baccarat",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBACCARAT.jpg",
+        "image": "/games/BSBACCARAT.jpg",
         "id": "BSBACCARAT"
     },
     {
@@ -1406,7 +1406,7 @@
             "classic"
         ],
         "name": "Craps",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSCRAPS.jpg",
+        "image": "/games/BSCRAPS.jpg",
         "id": "BSCRAPS"
     },
     {
@@ -1414,7 +1414,7 @@
             "classic"
         ],
         "name": "Draw Hi Low",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDRAWHILOW.jpg",
+        "image": "/games/BSDRAWHILOW.jpg",
         "id": "BSDRAWHILOW"
     },
     {
@@ -1422,7 +1422,7 @@
             "classic"
         ],
         "name": "Oasis Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSOASISPOKER.jpg",
+        "image": "/games/BSOASISPOKER.jpg",
         "id": "BSOASISPOKER"
     },
     {
@@ -1430,7 +1430,7 @@
             "classic"
         ],
         "name": "Pai Gow",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPAIGOW.jpg",
+        "image": "/games/BSPAIGOW.jpg",
         "id": "BSPAIGOW"
     },
     {
@@ -1438,7 +1438,7 @@
             "classic"
         ],
         "name": "Poker3 Heads Up Hold'em",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPOKER3HEADSUPHOLDEM.jpg",
+        "image": "/games/BSPOKER3HEADSUPHOLDEM.jpg",
         "id": "BSPOKER3HEADSUPHOLDEM"
     },
     {
@@ -1446,7 +1446,7 @@
             "classic"
         ],
         "name": "Red Dog",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSREDDOG.jpg",
+        "image": "/games/BSREDDOG.jpg",
         "id": "BSREDDOG"
     },
     {
@@ -1454,7 +1454,7 @@
             "classic"
         ],
         "name": "Top Card Trumps",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTOPCARDTRUMPS.jpg",
+        "image": "/games/BSTOPCARDTRUMPS.jpg",
         "id": "BSTOPCARDTRUMPS"
     },
     {
@@ -1462,7 +1462,7 @@
             "classic"
         ],
         "name": "Triple Edge Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTRIPLEEDGEPOKER.jpg",
+        "image": "/games/BSTRIPLEEDGEPOKER.jpg",
         "id": "BSTRIPLEEDGEPOKER"
     },
     {
@@ -1470,7 +1470,7 @@
             "classic"
         ],
         "name": "Baccarat Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBACCARATPROSERIESHL.jpg",
+        "image": "/games/NEBACCARATPROSERIESHL.jpg",
         "id": "NEBACCARATPROSERIESHL"
     },
     {
@@ -1478,7 +1478,7 @@
             "classic"
         ],
         "name": "Baccarat Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBACCARATPROSERIESSL.jpg",
+        "image": "/games/NEBACCARATPROSERIESSL.jpg",
         "id": "NEBACCARATPROSERIESSL"
     },
     {
@@ -1486,7 +1486,7 @@
             "classic"
         ],
         "name": "Caribbean Stud Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NECARIBBEANSTUDPOKER.jpg",
+        "image": "/games/NECARIBBEANSTUDPOKER.jpg",
         "id": "NECARIBBEANSTUDPOKER"
     },
     {
@@ -1494,7 +1494,7 @@
             "classic"
         ],
         "name": "Caribbean Stud Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NECARIBBEANSTUDPROSERIESHL.jpg",
+        "image": "/games/NECARIBBEANSTUDPROSERIESHL.jpg",
         "id": "NECARIBBEANSTUDPROSERIESHL"
     },
     {
@@ -1502,7 +1502,7 @@
             "classic"
         ],
         "name": "Caribbean Stud Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NECARIBBEANSTUDPROSERIESSL.jpg",
+        "image": "/games/NECARIBBEANSTUDPROSERIESSL.jpg",
         "id": "NECARIBBEANSTUDPROSERIESSL"
     },
     {
@@ -1510,7 +1510,7 @@
             "classic"
         ],
         "name": "Casino Hold'em",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NECASINOHOLDEM.jpg",
+        "image": "/games/NECASINOHOLDEM.jpg",
         "id": "NECASINOHOLDEM"
     },
     {
@@ -1518,7 +1518,7 @@
             "classic"
         ],
         "name": "Oasis Poker Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEOASISPOKERPROSERIESHL.jpg",
+        "image": "/games/NEOASISPOKERPROSERIESHL.jpg",
         "id": "NEOASISPOKERPROSERIESHL"
     },
     {
@@ -1526,7 +1526,7 @@
             "classic"
         ],
         "name": "Oasis Poker Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEOASISPOKERPROSERIESSL.jpg",
+        "image": "/games/NEOASISPOKERPROSERIESSL.jpg",
         "id": "NEOASISPOKERPROSERIESSL"
     },
     {
@@ -1534,7 +1534,7 @@
             "classic"
         ],
         "name": "Punto Banco Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEPUNTOBANCOPROSERIESHL.jpg",
+        "image": "/games/NEPUNTOBANCOPROSERIESHL.jpg",
         "id": "NEPUNTOBANCOPROSERIESHL"
     },
     {
@@ -1542,7 +1542,7 @@
             "classic"
         ],
         "name": "Punto Banco Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEPUNTOBANCOPROSERIESSL.jpg",
+        "image": "/games/NEPUNTOBANCOPROSERIESSL.jpg",
         "id": "NEPUNTOBANCOPROSERIESSL"
     },
     {
@@ -1550,7 +1550,7 @@
             "classic"
         ],
         "name": "Red Dog Progressive",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEREDDOGPROGRESSIVE.jpg",
+        "image": "/games/NEREDDOGPROGRESSIVE.jpg",
         "id": "NEREDDOGPROGRESSIVE"
     },
     {
@@ -1558,7 +1558,7 @@
             "classic"
         ],
         "name": "Texas Hold'em - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETXSHOLDEMPROSERIESHL.jpg",
+        "image": "/games/NETXSHOLDEMPROSERIESHL.jpg",
         "id": "NETXSHOLDEMPROSERIESHL"
     },
     {
@@ -1566,7 +1566,7 @@
             "classic"
         ],
         "name": "Texas Hold'em",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETXSHOLDEMPROSERIESSL.jpg",
+        "image": "/games/NETXSHOLDEMPROSERIESSL.jpg",
         "id": "NETXSHOLDEMPROSERIESSL"
     },
     {
@@ -1574,7 +1574,7 @@
             "classic"
         ],
         "name": "Odd One In",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXODDONEIN.jpg",
+        "image": "/games/NYXODDONEIN.jpg",
         "id": "NYXODDONEIN"
     },
     {
@@ -1582,7 +1582,7 @@
             "classic"
         ],
         "name": "Sharp Shooter",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSHARPSHOOTER.jpg",
+        "image": "/games/NYXSHARPSHOOTER.jpg",
         "id": "NYXSHARPSHOOTER"
     },
     {
@@ -1590,7 +1590,7 @@
             "classic"
         ],
         "name": "Six Shooter",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXSIXSHOOTER.jpg",
+        "image": "/games/NYXSIXSHOOTER.jpg",
         "id": "NYXSIXSHOOTER"
     },
     {
@@ -1598,7 +1598,7 @@
             "classic"
         ],
         "name": "Highroller",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGHIGHROLLER.jpg",
+        "image": "/games/XGHIGHROLLER.jpg",
         "id": "XGHIGHROLLER"
     },
     {
@@ -1606,7 +1606,7 @@
             "poker"
         ],
         "name": "All American",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSALLAMERICAN.jpg",
+        "image": "/games/BSALLAMERICAN.jpg",
         "id": "BSALLAMERICAN"
     },
     {
@@ -1614,7 +1614,7 @@
             "poker"
         ],
         "name": "Bonus Deuces",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBONUSDEUCES.jpg",
+        "image": "/games/BSBONUSDEUCES.jpg",
         "id": "BSBONUSDEUCES"
     },
     {
@@ -1622,7 +1622,7 @@
             "poker"
         ],
         "name": "Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSBONUSPOKER.jpg",
+        "image": "/games/BSBONUSPOKER.jpg",
         "id": "BSBONUSPOKER"
     },
     {
@@ -1630,7 +1630,7 @@
             "poker"
         ],
         "name": "Caribbean Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSCARIBPOKER.jpg",
+        "image": "/games/BSCARIBPOKER.jpg",
         "id": "BSCARIBPOKER"
     },
     {
@@ -1638,7 +1638,7 @@
             "poker"
         ],
         "name": "Deuces And Jokers",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDEUCESORJOKERS.jpg",
+        "image": "/games/BSDEUCESORJOKERS.jpg",
         "id": "BSDEUCESORJOKERS"
     },
     {
@@ -1646,7 +1646,7 @@
             "poker"
         ],
         "name": "Deuces Wild",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDEUCESWILD.jpg",
+        "image": "/games/BSDEUCESWILD.jpg",
         "id": "BSDEUCESWILD"
     },
     {
@@ -1654,7 +1654,7 @@
             "poker"
         ],
         "name": "Double Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDOUBLEBONUSPOKER.jpg",
+        "image": "/games/BSDOUBLEBONUSPOKER.jpg",
         "id": "BSDOUBLEBONUSPOKER"
     },
     {
@@ -1662,7 +1662,7 @@
             "poker"
         ],
         "name": "Double Joker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSDOUBLEJOKER.jpg",
+        "image": "/games/BSDOUBLEJOKER.jpg",
         "id": "BSDOUBLEJOKER"
     },
     {
@@ -1670,7 +1670,7 @@
             "poker"
         ],
         "name": "Five Draw Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSFIVEDRAWPOKER.jpg",
+        "image": "/games/BSFIVEDRAWPOKER.jpg",
         "id": "BSFIVEDRAWPOKER"
     },
     {
@@ -1678,7 +1678,7 @@
             "poker"
         ],
         "name": "Jacks or Better",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSJACKSORBETTER.jpg",
+        "image": "/games/BSJACKSORBETTER.jpg",
         "id": "BSJACKSORBETTER"
     },
     {
@@ -1686,7 +1686,7 @@
             "poker"
         ],
         "name": "Joker Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSJOKERPOKER.jpg",
+        "image": "/games/BSJOKERPOKER.jpg",
         "id": "BSJOKERPOKER"
     },
     {
@@ -1694,7 +1694,7 @@
             "poker"
         ],
         "name": "Multihand All American",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHALLAMERICAN.jpg",
+        "image": "/games/BSMHALLAMERICAN.jpg",
         "id": "BSMHALLAMERICAN"
     },
     {
@@ -1702,7 +1702,7 @@
             "poker"
         ],
         "name": "Multihand Bonus Deluxe Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHBONUSDELUXEPOKER.jpg",
+        "image": "/games/BSMHBONUSDELUXEPOKER.jpg",
         "id": "BSMHBONUSDELUXEPOKER"
     },
     {
@@ -1710,7 +1710,7 @@
             "poker"
         ],
         "name": "Multihand Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHBONUSPOKER.jpg",
+        "image": "/games/BSMHBONUSPOKER.jpg",
         "id": "BSMHBONUSPOKER"
     },
     {
@@ -1718,7 +1718,7 @@
             "poker"
         ],
         "name": "Multihand Deuces Wild Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHDEUCESWILDPOKER.jpg",
+        "image": "/games/BSMHDEUCESWILDPOKER.jpg",
         "id": "BSMHDEUCESWILDPOKER"
     },
     {
@@ -1726,7 +1726,7 @@
             "poker"
         ],
         "name": "Multihand Double Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHDOUBLEBONUSPOKER.jpg",
+        "image": "/games/BSMHDOUBLEBONUSPOKER.jpg",
         "id": "BSMHDOUBLEBONUSPOKER"
     },
     {
@@ -1734,7 +1734,7 @@
             "poker"
         ],
         "name": "Multihand Double Jackpot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHDOUBLEJACKPOT.jpg",
+        "image": "/games/BSMHDOUBLEJACKPOT.jpg",
         "id": "BSMHDOUBLEJACKPOT"
     },
     {
@@ -1742,7 +1742,7 @@
             "poker"
         ],
         "name": "Multihand Jacks Or Better",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHJACKSORBETTER.jpg",
+        "image": "/games/BSMHJACKSORBETTER.jpg",
         "id": "BSMHJACKSORBETTER"
     },
     {
@@ -1750,7 +1750,7 @@
             "poker"
         ],
         "name": "Multihand Joker Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSMHJOKERPOKER.jpg",
+        "image": "/games/BSMHJOKERPOKER.jpg",
         "id": "BSMHJOKERPOKER"
     },
     {
@@ -1758,7 +1758,7 @@
             "poker"
         ],
         "name": "Pyramid Aces and Faces",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRACESANDFACES.jpg",
+        "image": "/games/BSPYRACESANDFACES.jpg",
         "id": "BSPYRACESANDFACES"
     },
     {
@@ -1766,7 +1766,7 @@
             "poker"
         ],
         "name": "Pyramid Bonus Deluxe Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRBONUSDELUXEPOKER.jpg",
+        "image": "/games/BSPYRBONUSDELUXEPOKER.jpg",
         "id": "BSPYRBONUSDELUXEPOKER"
     },
     {
@@ -1774,7 +1774,7 @@
             "poker"
         ],
         "name": "Pyramid Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRBONUSPOKER.jpg",
+        "image": "/games/BSPYRBONUSPOKER.jpg",
         "id": "BSPYRBONUSPOKER"
     },
     {
@@ -1782,7 +1782,7 @@
             "poker"
         ],
         "name": "Pyramid Deuces Wild Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRDEUCESWILDPOKER.jpg",
+        "image": "/games/BSPYRDEUCESWILDPOKER.jpg",
         "id": "BSPYRDEUCESWILDPOKER"
     },
     {
@@ -1790,7 +1790,7 @@
             "poker"
         ],
         "name": "Pyramid Double Bonus Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRDOUBLEBONUSPOKER.jpg",
+        "image": "/games/BSPYRDOUBLEBONUSPOKER.jpg",
         "id": "BSPYRDOUBLEBONUSPOKER"
     },
     {
@@ -1798,7 +1798,7 @@
             "poker"
         ],
         "name": "Pyramid Double Jackpot Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRDOUBLEJACKPOTPOKER.jpg",
+        "image": "/games/BSPYRDOUBLEJACKPOTPOKER.jpg",
         "id": "BSPYRDOUBLEJACKPOTPOKER"
     },
     {
@@ -1806,7 +1806,7 @@
             "poker"
         ],
         "name": "Pyramid Jacks Or Better Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRJACKSORBETTERPOKER.jpg",
+        "image": "/games/BSPYRJACKSORBETTERPOKER.jpg",
         "id": "BSPYRJACKSORBETTERPOKER"
     },
     {
@@ -1814,7 +1814,7 @@
             "poker"
         ],
         "name": "Pyramid Joker Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPYRJOKERPOKER.jpg",
+        "image": "/games/BSPYRJOKERPOKER.jpg",
         "id": "BSPYRJOKERPOKER"
     },
     {
@@ -1822,7 +1822,7 @@
             "poker"
         ],
         "name": "Split Way Royal",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSPLITWAYROYAL.jpg",
+        "image": "/games/BSSPLITWAYROYAL.jpg",
         "id": "BSSPLITWAYROYAL"
     },
     {
@@ -1830,7 +1830,7 @@
             "poker"
         ],
         "name": "Tens or Better",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTENSORBETTER.jpg",
+        "image": "/games/BSTENSORBETTER.jpg",
         "id": "BSTENSORBETTER"
     },
     {
@@ -1838,7 +1838,7 @@
             "poker"
         ],
         "name": "3D Video Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTTVPOKER.jpg",
+        "image": "/games/MTTVPOKER.jpg",
         "id": "MTTVPOKER"
     },
     {
@@ -1846,7 +1846,7 @@
             "poker"
         ],
         "name": "Video Poker",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGVIDEOPOKER.jpg",
+        "image": "/games/XGVIDEOPOKER.jpg",
         "id": "XGVIDEOPOKER"
     },
     {
@@ -1854,7 +1854,7 @@
             "poker"
         ],
         "name": "Video Poker Sidebet",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGVIDEOPOKERSB.jpg",
+        "image": "/games/XGVIDEOPOKERSB.jpg",
         "id": "XGVIDEOPOKERSB"
     },
     {
@@ -1862,7 +1862,7 @@
             "roulette"
         ],
         "name": "American Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSAMERICANROULETTE.jpg",
+        "image": "/games/BSAMERICANROULETTE.jpg",
         "id": "BSAMERICANROULETTE"
     },
     {
@@ -1870,7 +1870,7 @@
             "roulette"
         ],
         "name": "Common Draw Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSCOMMONDRAWROULETTE.jpg",
+        "image": "/games/BSCOMMONDRAWROULETTE.jpg",
         "id": "BSCOMMONDRAWROULETTE"
     },
     {
@@ -1878,7 +1878,7 @@
             "roulette"
         ],
         "name": "European Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSEUROPEANROULETTE.jpg",
+        "image": "/games/BSEUROPEANROULETTE.jpg",
         "id": "BSEUROPEANROULETTE"
     },
     {
@@ -1886,7 +1886,7 @@
             "roulette"
         ],
         "name": "Vip American Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSVIPAMERICANROULETTE.jpg",
+        "image": "/games/BSVIPAMERICANROULETTE.jpg",
         "id": "BSVIPAMERICANROULETTE"
     },
     {
@@ -1894,7 +1894,7 @@
             "roulette"
         ],
         "name": "Vip European Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSVIPEUROPEANROULETTE.jpg",
+        "image": "/games/BSVIPEUROPEANROULETTE.jpg",
         "id": "BSVIPEUROPEANROULETTE"
     },
     {
@@ -1902,7 +1902,7 @@
             "roulette"
         ],
         "name": "European Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEEUROPEANROULETTE.jpg",
+        "image": "/games/NEEUROPEANROULETTE.jpg",
         "id": "NEEUROPEANROULETTE"
     },
     {
@@ -1910,7 +1910,7 @@
             "roulette"
         ],
         "name": "French Roulette - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEFRENCHROULETTEHL.jpg",
+        "image": "/games/NEFRENCHROULETTEHL.jpg",
         "id": "NEFRENCHROULETTEHL"
     },
     {
@@ -1918,7 +1918,7 @@
             "roulette"
         ],
         "name": "French Roulette - Low",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEFRENCHROULETTELL.jpg",
+        "image": "/games/NEFRENCHROULETTELL.jpg",
         "id": "NEFRENCHROULETTELL"
     },
     {
@@ -1926,7 +1926,7 @@
             "roulette"
         ],
         "name": "Roulette Adv - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEROULETTEADVANCEDHL.jpg",
+        "image": "/games/NEROULETTEADVANCEDHL.jpg",
         "id": "NEROULETTEADVANCEDHL"
     },
     {
@@ -1934,7 +1934,7 @@
             "roulette"
         ],
         "name": "Roulette Adv",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEROULETTEADVANCEDSL.jpg",
+        "image": "/games/NEROULETTEADVANCEDSL.jpg",
         "id": "NEROULETTEADVANCEDSL"
     },
     {
@@ -1942,7 +1942,7 @@
             "roulette"
         ],
         "name": "The French Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETHEFRENCHROULETTE.jpg",
+        "image": "/games/NETHEFRENCHROULETTE.jpg",
         "id": "NETHEFRENCHROULETTE"
     },
     {
@@ -1950,7 +1950,7 @@
             "roulette"
         ],
         "name": "Roulette - European",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXEUROPEANROULETTE.jpg",
+        "image": "/games/NYXEUROPEANROULETTE.jpg",
         "id": "NYXEUROPEANROULETTE"
     },
     {
@@ -1958,7 +1958,7 @@
             "roulette"
         ],
         "name": "Roulette",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGROULETTE.jpg",
+        "image": "/games/XGROULETTE.jpg",
         "id": "XGROULETTE"
     },
     {
@@ -1966,7 +1966,7 @@
             "blackjack"
         ],
         "name": "American Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSAMERICANBLACKJACK.jpg",
+        "image": "/games/BSAMERICANBLACKJACK.jpg",
         "id": "BSAMERICANBLACKJACK"
     },
     {
@@ -1974,7 +1974,7 @@
             "blackjack"
         ],
         "name": "Blackjack Players Choice",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBLACKJACKPLAYERSCHOICE.jpg",
+        "image": "/games/NYXBLACKJACKPLAYERSCHOICE.jpg",
         "id": "NYXBLACKJACKPLAYERSCHOICE"
     },
     {
@@ -1982,7 +1982,7 @@
             "blackjack"
         ],
         "name": "Blackjack Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBJPROSERIESHL.jpg",
+        "image": "/games/NEBJPROSERIESHL.jpg",
         "id": "NEBJPROSERIESHL"
     },
     {
@@ -1990,7 +1990,7 @@
             "blackjack"
         ],
         "name": "Blackjack Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBJPROSERIESSL.jpg",
+        "image": "/games/NEBJPROSERIESSL.jpg",
         "id": "NEBJPROSERIESSL"
     },
     {
@@ -1998,7 +1998,7 @@
             "blackjack"
         ],
         "name": "Single Player Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGBLACKJACK.jpg",
+        "image": "/games/XGBLACKJACK.jpg",
         "id": "XGBLACKJACK"
     },
     {
@@ -2006,7 +2006,7 @@
             "blackjack"
         ],
         "name": "Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXBLACKJACK.jpg",
+        "image": "/games/NYXBLACKJACK.jpg",
         "id": "NYXBLACKJACK"
     },
     {
@@ -2014,7 +2014,7 @@
             "blackjack"
         ],
         "name": "Blackjack Classic - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBJCLASSICHL.jpg",
+        "image": "/games/NEBJCLASSICHL.jpg",
         "id": "NEBJCLASSICHL"
     },
     {
@@ -2022,7 +2022,7 @@
             "blackjack"
         ],
         "name": "Blackjack Classic - Low",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBJCLASSICLL.jpg",
+        "image": "/games/NEBJCLASSICLL.jpg",
         "id": "NEBJCLASSICLL"
     },
     {
@@ -2030,7 +2030,7 @@
             "blackjack"
         ],
         "name": "Blackjack Classic",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEBJCLASSICSL.jpg",
+        "image": "/games/NEBJCLASSICSL.jpg",
         "id": "NEBJCLASSICSL"
     },
     {
@@ -2038,7 +2038,7 @@
             "blackjack"
         ],
         "name": "21 Burn Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BS21BURNBJ.jpg",
+        "image": "/games/BS21BURNBJ.jpg",
         "id": "BS21BURNBJ"
     },
     {
@@ -2046,7 +2046,7 @@
             "blackjack"
         ],
         "name": "Dbl Exp Blackjack Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEDOUBLEEXPBJPROSERIESHL.jpg",
+        "image": "/games/NEDOUBLEEXPBJPROSERIESHL.jpg",
         "id": "NEDOUBLEEXPBJPROSERIESHL"
     },
     {
@@ -2054,7 +2054,7 @@
             "blackjack"
         ],
         "name": "Dbl Exp Blackjack Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEDOUBLEEXPBJPROSERIESSL.jpg",
+        "image": "/games/NEDOUBLEEXPBJPROSERIESSL.jpg",
         "id": "NEDOUBLEEXPBJPROSERIESSL"
     },
     {
@@ -2062,7 +2062,7 @@
             "blackjack"
         ],
         "name": "European Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSEUROPEANBLACKJACK.jpg",
+        "image": "/games/BSEUROPEANBLACKJACK.jpg",
         "id": "BSEUROPEANBLACKJACK"
     },
     {
@@ -2070,7 +2070,7 @@
             "blackjack"
         ],
         "name": "Pontoon",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPONTOON.jpg",
+        "image": "/games/BSPONTOON.jpg",
         "id": "BSPONTOON"
     },
     {
@@ -2078,7 +2078,7 @@
             "blackjack"
         ],
         "name": "Pontoon 20",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPONTOON20.jpg",
+        "image": "/games/BSPONTOON20.jpg",
         "id": "BSPONTOON20"
     },
     {
@@ -2086,7 +2086,7 @@
             "blackjack"
         ],
         "name": "Pontoon Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEPONTOONPROSERIESHL.jpg",
+        "image": "/games/NEPONTOONPROSERIESHL.jpg",
         "id": "NEPONTOONPROSERIESHL"
     },
     {
@@ -2094,7 +2094,7 @@
             "blackjack"
         ],
         "name": "Pontoon Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEPONTOONPROSERIESSL.jpg",
+        "image": "/games/NEPONTOONPROSERIESSL.jpg",
         "id": "NEPONTOONPROSERIESSL"
     },
     {
@@ -2102,7 +2102,7 @@
             "blackjack"
         ],
         "name": "Single Deck Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSINGLEDECKBLACKJACK.jpg",
+        "image": "/games/BSSINGLEDECKBLACKJACK.jpg",
         "id": "BSSINGLEDECKBLACKJACK"
     },
     {
@@ -2110,7 +2110,7 @@
             "blackjack"
         ],
         "name": "Single Blackjack Pro - High",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESINGLEDECKBJPROSERIESHL.jpg",
+        "image": "/games/NESINGLEDECKBJPROSERIESHL.jpg",
         "id": "NESINGLEDECKBJPROSERIESHL"
     },
     {
@@ -2118,7 +2118,7 @@
             "blackjack"
         ],
         "name": "Single Blackjack Pro",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NESINGLEDECKBJPROSERIESSL.jpg",
+        "image": "/games/NESINGLEDECKBJPROSERIESSL.jpg",
         "id": "NESINGLEDECKBJPROSERIESSL"
     },
     {
@@ -2126,7 +2126,7 @@
             "blackjack"
         ],
         "name": "Blackjack Sixth Sense",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/KTSIXTHSENSE.jpg",
+        "image": "/games/KTSIXTHSENSE.jpg",
         "id": "KTSIXTHSENSE"
     },
     {
@@ -2134,7 +2134,7 @@
             "blackjack"
         ],
         "name": "Super 7 Blackjack",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSUPER7BLACKJACK.jpg",
+        "image": "/games/BSSUPER7BLACKJACK.jpg",
         "id": "BSSUPER7BLACKJACK"
     },
     {
@@ -2142,7 +2142,7 @@
             "fun"
         ],
         "name": "Tribble",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NETRIBBLE.jpg",
+        "image": "/games/NETRIBBLE.jpg",
         "id": "NETRIBBLE"
     },
     {
@@ -2150,7 +2150,7 @@
             "fun"
         ],
         "name": "Pachinko - Grand Slam",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGPOTSHOTBASE.jpg",
+        "image": "/games/XGPOTSHOTBASE.jpg",
         "id": "XGPOTSHOTBASE"
     },
     {
@@ -2158,7 +2158,7 @@
             "fun"
         ],
         "name": "Pachinko - Slamm Jamm",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGPOTSHOTBASKET.jpg",
+        "image": "/games/XGPOTSHOTBASKET.jpg",
         "id": "XGPOTSHOTBASKET"
     },
     {
@@ -2166,7 +2166,7 @@
             "fun"
         ],
         "name": "Donut Dollars",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTDONUTS.jpg",
+        "image": "/games/MTDONUTS.jpg",
         "id": "MTDONUTS"
     },
     {
@@ -2174,7 +2174,7 @@
             "fun"
         ],
         "name": "Endzone",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTENDZONE.jpg",
+        "image": "/games/MTENDZONE.jpg",
         "id": "MTENDZONE"
     },
     {
@@ -2182,7 +2182,7 @@
             "fun"
         ],
         "name": "Pachinko - Endzone",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGPOTSHOTFOOT.jpg",
+        "image": "/games/XGPOTSHOTFOOT.jpg",
         "id": "XGPOTSHOTFOOT"
     },
     {
@@ -2190,7 +2190,7 @@
             "fun"
         ],
         "name": "Game Day",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTGAMEDAY.jpg",
+        "image": "/games/MTGAMEDAY.jpg",
         "id": "MTGAMEDAY"
     },
     {
@@ -2198,7 +2198,7 @@
             "fun"
         ],
         "name": "HiLo Money Spinner",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGMONEYSPINNER.jpg",
+        "image": "/games/XGMONEYSPINNER.jpg",
         "id": "XGMONEYSPINNER"
     },
     {
@@ -2206,7 +2206,7 @@
             "fun"
         ],
         "name": "Instant Keno Classic",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSINSTANTKENO.jpg",
+        "image": "/games/BSINSTANTKENO.jpg",
         "id": "BSINSTANTKENO"
     },
     {
@@ -2214,7 +2214,7 @@
             "fun"
         ],
         "name": "Klub Keno",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSKLUBKENO.jpg",
+        "image": "/games/BSKLUBKENO.jpg",
         "id": "BSKLUBKENO"
     },
     {
@@ -2222,7 +2222,7 @@
             "fun"
         ],
         "name": "Krazy Keno",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSKRAZYKENO.jpg",
+        "image": "/games/BSKRAZYKENO.jpg",
         "id": "BSKRAZYKENO"
     },
     {
@@ -2230,7 +2230,7 @@
             "fun"
         ],
         "name": "Penguin Party",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTPENGUINS.jpg",
+        "image": "/games/MTPENGUINS.jpg",
         "id": "MTPENGUINS"
     },
     {
@@ -2238,7 +2238,7 @@
             "fun"
         ],
         "name": "Pieces of Eight",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTPIRATES.jpg",
+        "image": "/games/MTPIRATES.jpg",
         "id": "MTPIRATES"
     },
     {
@@ -2246,7 +2246,7 @@
             "fun"
         ],
         "name": "Potshot",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGPOTSHOT.jpg",
+        "image": "/games/XGPOTSHOT.jpg",
         "id": "XGPOTSHOT"
     },
     {
@@ -2254,7 +2254,7 @@
             "fun"
         ],
         "name": "Predictor",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSPREDICTOR.jpg",
+        "image": "/games/BSPREDICTOR.jpg",
         "id": "BSPREDICTOR"
     },
     {
@@ -2263,7 +2263,7 @@
             "virtual"
         ],
         "name": "Virtual Racing",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGVHR.jpg",
+        "image": "/games/XGVHR.jpg",
         "id": "XGVHR"
     },
     {
@@ -2271,7 +2271,7 @@
             "fun"
         ],
         "name": "Six Ball",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGSIXBALL.jpg",
+        "image": "/games/XGSIXBALL.jpg",
         "id": "XGSIXBALL"
     },
     {
@@ -2279,7 +2279,7 @@
             "fun"
         ],
         "name": "Skratcherz",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSSKRATCHERZ.jpg",
+        "image": "/games/BSSKRATCHERZ.jpg",
         "id": "BSSKRATCHERZ"
     },
     {
@@ -2287,7 +2287,7 @@
             "fun"
         ],
         "name": "Slamm Jamm",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTSLAMJAM.jpg",
+        "image": "/games/MTSLAMJAM.jpg",
         "id": "MTSLAMJAM"
     },
     {
@@ -2295,7 +2295,7 @@
             "fun"
         ],
         "name": "Super Hi Lo",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGHILO1.jpg",
+        "image": "/games/XGHILO1.jpg",
         "id": "XGHILO1"
     },
     {
@@ -2303,7 +2303,7 @@
             "fun"
         ],
         "name": "Texas Hold'em",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTPOKER.jpg",
+        "image": "/games/MTPOKER.jpg",
         "id": "MTPOKER"
     },
     {
@@ -2311,7 +2311,7 @@
             "fun"
         ],
         "name": "The Pitch",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTPITCH.jpg",
+        "image": "/games/MTPITCH.jpg",
         "id": "MTPITCH"
     },
     {
@@ -2319,7 +2319,7 @@
             "fun"
         ],
         "name": "Traditional Keno",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSTRADITIONALKENO.jpg",
+        "image": "/games/BSTRADITIONALKENO.jpg",
         "id": "BSTRADITIONALKENO"
     },
     {
@@ -2327,7 +2327,7 @@
             "fun"
         ],
         "name": "Winners Wheel",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/XGWINNERSWHEEL.jpg",
+        "image": "/games/XGWINNERSWHEEL.jpg",
         "id": "XGWINNERSWHEEL"
     },
     {
@@ -2335,7 +2335,7 @@
             "ball"
         ],
         "name": "Studio1 Bingo",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BGSTUDIO1.jpg",
+        "image": "/games/BGSTUDIO1.jpg",
         "id": "BGSTUDIO1"
     },
     {
@@ -2343,7 +2343,7 @@
             "ball"
         ],
         "name": "75 Ball Bingo",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BG75BALL.jpg",
+        "image": "/games/BG75BALL.jpg",
         "id": "BG75BALL"
     },
     {
@@ -2351,7 +2351,7 @@
             "ball"
         ],
         "name": "Barbados Bingo",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BGBARBADOS.jpg",
+        "image": "/games/BGBARBADOS.jpg",
         "id": "BGBARBADOS"
     },
     {
@@ -2359,7 +2359,7 @@
             "new"
         ],
         "name": "Arabian Nights",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NEARABIANNIGHTS.jpg",
+        "image": "/games/NEARABIANNIGHTS.jpg",
         "id": "NEARABIANNIGHTS"
     },
     {
@@ -2367,7 +2367,7 @@
             "virtual"
         ],
         "name": "Football Frenzy",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/MTFRENZY.jpg",
+        "image": "/games/MTFRENZY.jpg",
         "id": "MTFRENZY"
     },
     {
@@ -2375,7 +2375,7 @@
             "virtual"
         ],
         "name": "Virtual Racebook",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/BSVIRTUALRACEBOOK.jpg",
+        "image": "/games/BSVIRTUALRACEBOOK.jpg",
         "id": "BSVIRTUALRACEBOOK"
     },
     {
@@ -2383,7 +2383,7 @@
             "virtual"
         ],
         "name": "Virtual Rugby",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALRUGBY.jpg",
+        "image": "/games/NYXVIRTUALRUGBY.jpg",
         "id": "NYXVIRTUALRUGBY"
     },
     {
@@ -2391,7 +2391,7 @@
             "virtual"
         ],
         "name": "Virtual Euro Legends",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALEUROLEGENDS.jpg",
+        "image": "/games/NYXVIRTUALEUROLEGENDS.jpg",
         "id": "NYXVIRTUALEUROLEGENDS"
     },
     {
@@ -2399,7 +2399,7 @@
             "virtual"
         ],
         "name": "Virtual African Cup",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALAFRICANCUP.jpg",
+        "image": "/games/NYXVIRTUALAFRICANCUP.jpg",
         "id": "NYXVIRTUALAFRICANCUP"
     },
     {
@@ -2407,7 +2407,7 @@
             "virtual"
         ],
         "name": "Virtual Euros",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALEUROS.jpg",
+        "image": "/games/NYXVIRTUALEUROS.jpg",
         "id": "NYXVIRTUALEUROS"
     },
     {
@@ -2415,7 +2415,7 @@
             "virtual"
         ],
         "name": "Virtual Legends",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALLEGENDS.jpg",
+        "image": "/games/NYXVIRTUALLEGENDS.jpg",
         "id": "NYXVIRTUALLEGENDS"
     },
     {
@@ -2423,7 +2423,7 @@
             "virtual"
         ],
         "name": "Virtual Champs League",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALCHAMPSLEAGUE.jpg",
+        "image": "/games/NYXVIRTUALCHAMPSLEAGUE.jpg",
         "id": "NYXVIRTUALCHAMPSLEAGUE"
     },
     {
@@ -2431,7 +2431,7 @@
             "virtual"
         ],
         "name": "Virtual World Cup",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXVIRTUALWORLDCUP.jpg",
+        "image": "/games/NYXVIRTUALWORLDCUP.jpg",
         "id": "NYXVIRTUALWORLDCUP"
     },
     {
@@ -2439,7 +2439,7 @@
             "virtual"
         ],
         "name": "Touchdown",
-        "image": "//test-api.ginbits.com/23a09e35581fa0e82ab3cbfb853784da/v1/content/images/games/NYXTOUCHDOWN.jpg",
+        "image": "/games/NYXTOUCHDOWN.jpg",
         "id": "NYXTOUCHDOWN"
     }
 ]

@@ -14,7 +14,6 @@ const parseList = (response) => {
 // Call games api
 const getGames = async () => {
   try {
-    // const response = await axios.get('games.json');
     const response = await axios.get(API);
     const data = parseList(response);
     return data;
